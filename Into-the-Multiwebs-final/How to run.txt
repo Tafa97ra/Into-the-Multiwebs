@@ -1,0 +1,10 @@
+REQUIRED PACKAGES:
+
+1. Python 3.8.10
+2. Pip 
+3. Pygame 2.1.2
+
+HOW TO RUN. 
+
+In command line enter:
+$ python game.py

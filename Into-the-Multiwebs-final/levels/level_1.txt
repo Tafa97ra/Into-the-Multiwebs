@@ -1,0 +1,7 @@
+Welcome to the Multiwebs
+Help DASH on his adventure through the multiwebs
+Use the LEFT and RIGHT arrow keys to move across the screen
+Beat the levels and collect as many blip-coins as you can
+You can see how many you have in the top right corner
+Don't forget to set a password to protect you from bad guys
+(Remember Long is strong)

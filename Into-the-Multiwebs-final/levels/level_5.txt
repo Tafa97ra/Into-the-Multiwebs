@@ -1,0 +1,6 @@
+Big Bad Bit Killer Viruses
+These are the worst. If you touch one of them, you lose a life
+Luckily you can pick up extra lives
+You can see how many lives are left in the top right corner
+If they run out you lose the game. So be careful
+

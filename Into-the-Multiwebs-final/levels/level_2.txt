@@ -1,0 +1,7 @@
+Now that you have a password, you're safe... for now
+You can see your password strength in the top left corner (PWD-STR)
+It loses strength gets less over time...
+Also if you bump into a bad guy, they'll steal your data...
+So make sure to change it regularly
+Let's go to the next level
+
